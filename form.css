@@ -1,0 +1,27 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1 {
+background: rgb(143, 152, 143);
+border-radius: 10px;
+
+}
+.nome  {
+    background: aqua;
+    border-radius: 5px;
+}
+
+p {
+    color: brown;
+
+}
+
+.boton {
+    padding: 10px 30px ;
+
+    background: rgb(32, 162, 227);
+}
